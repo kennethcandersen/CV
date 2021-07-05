@@ -1,5 +1,14 @@
 # Curriculum Vitae
-My resume is located in this repository in PDF. 
 
-Summary: My passion is helping people be as productive and happy at work as possible, and helping organizations gain a competitive edge by creating inspiring cultures that retain talent. 
-With extensive experience as a Learning & Development consultant and trainer, my goal is to apply my recent training in data analytics to help organizations create and implement data-based strategies that improve their culture, retention and results. 
+Curriculum Vitae en PDF
+
+**SUMMARY**
+Data scientist with 7 years of Talent Development experience, seeking to apply data analytic skills to help organizations improve their talent, productivity & retention. 
+
+SKILLS
+Data wrangling: VBA Python, APIs, JSON & CSV parsing, Web scraping, ETL processes, SQL, Mongo.
+Data analytics: Statistical analysis, modeling, predicting and forecasting trends using Jupyter, Pandas, Numpy.
+Data visualization: Tableau, Matplotlib, Web-based dashboards via HTML, CSS, JavaScript, D3s & Plotly.
+Human Languages: Fluent in English and Spanish.  
+Soft Skills: Critical thinking, strategic thinking, data storytelling, team building, white papers, executive presentations, organizational psychology.
+
