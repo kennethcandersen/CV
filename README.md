@@ -15,3 +15,14 @@ Data scientist with 7 years of Talent Development experience, seeking to apply d
 - **Human Languages:** Fluent in English and Spanish.  
 - **Soft Skills:** Critical thinking, strategic thinking, consulting skills, account management, data storytelling, team building, white papers, executive presentations, organizational psychology.
 
+**PROJECT HIGHLIGHTS**
+
+1 Spotify user preferences during the Covid pandemic: https://github.com/kennethcandersen/spotify-user-preferences-during-covid-analysis  
+    - Analyzed the correlation between Spotify user preferences and Covid levels by country to demonstrate that Spotify can adapt its song recommendation algorithms by taking into account how different countries respond to crises, improving user experience and therefore premium user revenue. 
+    - Automated the extraction and processing of data for 10 countries from csv files and Spotify’s API, using Python, Pandas, Jupyter Notebook; and visualizing the data using MatPlotLib.
+
+- **Data analytics:** Statistical analysis, modeling, predicting and forecasting trends using Jupyter, Pandas, Numpy.
+- **Data visualization:** Tableau, Matplotlib, Web-based dashboards via HTML, CSS, JavaScript, D3s & Plotly.
+- **Human Languages:** Fluent in English and Spanish.  
+- **Soft Skills:** Critical thinking, strategic thinking, consulting skills, account management, data storytelling, team building, white papers, executive presentations, organizational psychology.
+
