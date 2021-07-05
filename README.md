@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-- [1-Page Summary Resume en PDF](https://github.com/kennethcandersen/Curriculum-Vitae/blob/main/Kenneth%20Andersen%20Resume%20HR%20Data%20Scientist%20July%202021%201-page.pdf)
+- [1-Page Summary Resume en PDF](https://github.com/kennethcandersen/Curriculum-Vitae/blob/main/Kenneth-Andersen-Resume-HR-Data-Scientist-July-2021-1page.pdf)
 - [See more detail on LinkedIn](https://www.linkedin.com/in/kennethcandersen/)
 
 **SUMMARY**
