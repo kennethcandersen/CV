@@ -1,4 +1,10 @@
 # Curriculum Vitae
+ <table style="width:100%">
+  <tr valign="top">
+    <th><img height="300" alt="Marrs News App" src="https://github.com/kennethcandersen/The-UFO-Sightings-Search-App/blob/main/index_screenshot.png"></th>
+    <th><img height="300" alt="Bacteria Research Web-based Dashboard" src="https://github.com/kennethcandersen/belly-button-biodiversity-app/blob/main/app-screenshotv2.png"></th>
+  </tr>
+</table> 
 
 - [1-Page Summary Resume en PDF](https://github.com/kennethcandersen/Curriculum-Vitae/blob/main/Kenneth-Andersen-Resume-HR-Data-Scientist-July-2021-1page.pdf)
 - [See more detail on LinkedIn](https://www.linkedin.com/in/kennethcandersen/)
